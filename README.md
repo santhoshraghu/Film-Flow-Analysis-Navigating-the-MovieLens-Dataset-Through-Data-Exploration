@@ -1,2 +1,5 @@
 # Film-Flow-Analysis-Navigating-the-MovieLens-Dataset-Through-Data-Exploration
 Data Science Projects
+• Orchestrated an in-depth analysis of the MovieLens Big dataset, employing advanced techniques such as data merging, statistical analysis of movie ratings, creation of histograms, and establishing gender-based rating correlations. 
+• Unearthed intricate patterns, formulated informed conjectures, and elucidated key insights with profound business implications. Utilized data-driven methodologies to extract actionable intelligence.• Orchestrated an in-depth analysis of the MovieLens Big dataset, employing advanced techniques such as data merging, statistical analysis of movie ratings, creation of histograms, and establishing gender-based rating correlations. • Unearthed intricate patterns, formulated informed conjectures, and elucidated key insights with profound business implications. Utilized data-driven methodologies to extract actionable intelligence.
+Skills: Python (Programming Language) · EDA · Data Visualization · Business Intelligence (BI)
